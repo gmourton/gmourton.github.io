@@ -1,8 +1,8 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            George
+longtitle:        George
+author:           G M
+email:            gmourton@googlemail.com
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://gmourton.github.io/'
-baseurl:          '/gitbook'
+baseurl:          '/'
 rss:              RSS
 
 # markdown render engine.
